@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "nome": "Isabela Rodrigues",
+        "email": "isabela.carvalho@email.com",
+        "telefone": "21999333666"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Eduarda",
+        "email": "mariaeduarda.silva@email.com",
+        "telefone": "21999888444"
+    },
+    {
+        "id": 3,
+        "nome": "Iasmin Soares",
+        "email": "iasmin.soares@email.com",
+        "telefone": "12666333999"
+    },
+    {
+        "id": 4,
+        "nome": "Carla Gonçalves",
+        "email": "carla.gonçalves@email.com",
+        "telefone": "12999456333"
+    },
+    {
+        "id": 5,
+        "nome": "Ana Paula",
+        "email": "ana.paula@email.com",
+        "telefone": "21999887766"
+    },
+    {
+        "id": 6,
+        "nome": "João Henrique",
+        "email": "joao.henrique@email.com",
+        "telefone": "21988776655"
+    },
+    {
+        "id": 7,
+        "nome": "Mariana Costa",
+        "email": "mariana.costa@email.com",
+        "telefone": "21977665544"
+    },
+    {
+        "id": 8,
+        "nome": "Ana Maria",
+        "email": "ana.maria@email.com",
+        "telefone": "21966554433"
+    },
+    {
+        "id": 9,
+        "nome": "Carlos Eduardo",
+        "email": "carlos.eduardo@email.com",
+        "telefone": "21955443322"
+    },
+    {
+        "id": 10,
+        "nome": "Maria Clara",
+        "email": "maria.clara@email.com",
+        "telefone": "21944332211"
+    },
+    {
+        "id": 11,
+        "nome": "Fernanda Lima",
+        "email": "fernanda.lima@email.com",
+        "telefone": "21933221100"
+    },
+    {
+        "id": 12,
+        "nome": "Joana Martins",
+        "email": "joana.martins@email.com",
+        "telefone": "21922110099"
+    },
+    {
+        "id": 13,
+        "nome": "Bruno Ferreira",
+        "email": "bruno.ferreira@email.com",
+        "telefone": "21911002233"
+    },
+    {
+        "id": 14,
+        "nome": "Letícia Andrade",
+        "email": "leticia.andrade@email.com",
+        "telefone": "21922334455"
+    },
+    {
+        "id": 15,
+        "nome": "Gabriel Souza",
+        "email": "gabriel.souza@email.com",
+        "telefone": "21933445566"
+    },
+    {
+        "id": 16,
+        "nome": "Tatiane Ribeiro",
+        "email": "tatiane.ribeiro@email.com",
+        "telefone": "21944556677"
+    },
+    {
+        "id": 17,
+        "nome": "Amanda Soares",
+        "email": "amanda.soares@email.com",
+        "telefone": "21955667788"
+    }
+]
